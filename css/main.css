@@ -1,0 +1,26 @@
+body {
+    background-color: #f5f6f7;
+}
+
+h1 {
+    font-family: "Montez", cursive;
+}
+
+.content {
+    height: 60%;
+}
+
+.quote-card {
+    height: 40%;
+}
+
+blockquote {
+    font-family: "Poetsen One", sans-serif;
+    color: #242426;
+    font-size: 40px;
+    width: 70%;
+}
+
+.quote-card span {
+    font-size: 25px;
+}
